@@ -1,6 +1,6 @@
 ## How to make tea
 
-First, if you're reading this, you're a damn fool. Now let's proceed.
+First, if you're reading this, you're a damn fool. Now, let's proceed.
 
 ### Prerequisites:
 
