@@ -7,7 +7,7 @@ First, if you're reading this, you're a damn fool. Now, let's proceed.
 1. A mug/cup.
 2. Some sort of tea.
 3. Potable water.
-4. Appliances to boil the water, including a electric kettle/kettle/pan/pot with a hook and a long stick, a cooking panel/fireplace/wood, and electricity/matches/lighter/erupting volcano. And a tea strainer.
+4. Appliances to boil the water, including an electric kettle/kettle/pan/pot with a hook and a long stick, a cooking panel/fireplace/wood, and electricity/matches/lighter/erupting volcano. And a tea strainer.
 
 ### Making tea
 
