@@ -11,7 +11,7 @@ First, if you're reading this, you're a damn fool. Now, let's proceed.
 
 ### Making tea
 
-In this instruction, I'll focus on a conventional way to make tea. All other cases will be described in future updates if any.
+In this instruction, we'll focus on a conventional way to make tea. All other cases will be described in future updates if any.
 
 #### The most convenient way
 
